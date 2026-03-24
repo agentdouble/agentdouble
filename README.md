@@ -1,4 +1,3 @@
-## Hi there 👋
 ![banner](https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/08/shutterstock_740523562-ai.webp)
 
 <!--
