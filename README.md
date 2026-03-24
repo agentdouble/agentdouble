@@ -1,5 +1,5 @@
 ## Hi there 👋
-![banner](https://raw.githubusercontent.com/collovray/collovray/main/banner.svg)
+![banner](https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/08/shutterstock_740523562-ai.webp)
 
 <!--
 **agentdouble/agentdouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
