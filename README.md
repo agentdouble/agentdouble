@@ -1,4 +1,4 @@
-![banner](https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/08/shutterstock_740523562-ai.webp)
+![banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JrcHRhc3FzbTF4dm8wa2YwNTNnaGM2M2I3bmR0OWs3dWRoeXFiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fS9PCxQYG0ULu/giphy.gif)
 
 <!--
 **agentdouble/agentdouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
